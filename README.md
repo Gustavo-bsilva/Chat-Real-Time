@@ -1,4 +1,5 @@
 <h1 align="center">Chat de suporte real-time</h1>
+<p align="center">Chat de suporte com troca de mensagens em tempo real utilizando web-seockets</p>
 <img align="center" src="https://user-images.githubusercontent.com/57686218/116252888-5cb75480-a746-11eb-8a7e-52bdaf9bba96.png">
 
 
