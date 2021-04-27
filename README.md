@@ -1,5 +1,6 @@
-# Chat de suporte real-time
-### Tecnologias   |    Projeto  |    Como rodar   
+<h1 align="center">Chat de suporte real-time</h1>
+<img align="center" src="https://user-images.githubusercontent.com/57686218/116252888-5cb75480-a746-11eb-8a7e-52bdaf9bba96.png">
+
 
 
 ### ✨ Tecnologias
