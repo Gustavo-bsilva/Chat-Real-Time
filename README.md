@@ -1,26 +1,22 @@
-Real-time Support Chat
-Technologies   |    Project   |    How to run   |    License
+# Chat de suporte real-time
+### Tecnologias   |    Projeto  |    Como rodar   
 
 
-✨ Technologies
+### ✨ Tecnologias
 This project was developed using the following technologies:
 
 TypeScript
 Express
 TypeORM
-SQL Editor Beekeeper Studio
-💻 Project
-support-chat is an app that offers a real-time support chat (like those E-commerce chats)
+Socket.io
 
-This Project was developed during the NodeJS path in the fifth edition of NLW (Next Level Week). We learned concepts about what is an API, starting a project using Typescript and Express for route management.
+### 💻 Projeto
+O chat de suporte se assemelha a chats usados em ecommerces, utilizando Web-Sockets para fazer a comunicação em tempo real, com Socket.io.
 
-🚀 How to run
-Clone this repo
-Install all dependencies with yarn
-Start the server with yarn dev
-You can access the app typing localhost:3333 on your favorite browser.
+Esse projeto foi desenvolvido durante a Next Level Week #5, evento feito pela [Rocketseat](https://rocketseat.com.br/), onde foi ensinado a usar o Typescript, TypeORM e Socket.io.
 
-📄 License
-This project is under the MIT LICENSE
-
-Join the Rocketseat community
+### 🚀 Como rodar 
+Clone esse repo
+Instale todas as dependências usando o `yarn`
+Inicie o server com yarn dev
+Você pode acessar o projeto digitando `localhost:3333`  no seu browser.
