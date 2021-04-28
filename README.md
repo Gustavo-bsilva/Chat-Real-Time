@@ -11,7 +11,7 @@
 
 Instale todas as dependências usando o `yarn`
 
-Inicie o server com yarn dev
+Inicie o server com `yarn dev`
 
 Você pode acessar o projeto digitando `localhost:3333`  no seu browser.
 
