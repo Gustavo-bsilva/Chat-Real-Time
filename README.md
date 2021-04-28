@@ -3,11 +3,16 @@
 <p>Chat de suporte com troca de mensagens em tempo real utilizando web-seockets</p>
 
 O chat de suporte se assemelha a chats usados em ecommerces, utilizando Web-Sockets para fazer a comunicação em tempo real, com Socket.io.
-O client se conecta ao chat colocando o seu e-mail e enviando uma primeira mensagem, o atendente recebe uma solicitação de conexão com o client em sua tela, que pode entrar no atendimento e aderir o client para os atendimentos relecionados a esse atendente.
-Esse projeto foi desenvolvido durante a Next Level Week #5, evento feito pela [Rocketseat](https://rocketseat.com.br/), onde foi ensinado a usar o Typescript, TypeORM e Socket.io.
-
-Como rodar
+O client se conecta ao chat colocando o seu e-mail e enviando uma primeira mensagem, o atendente recebe uma solicitação de conexão com o client em sua tela, que pode entrar no atendimento e aderir o client para os atendimentos relecionados a esse atendente.<br>
+Esse projeto foi desenvolvido durante a <b>Next Level Week #5</b>, evento feito pela [Rocketseat](https://rocketseat.com.br/), onde foi ensinado a usar o Typescript, TypeORM e Socket.io.
+<br>
 Clone esse repo
 Instale todas as dependências usando o `yarn`
 Inicie o server com yarn dev
 Você pode acessar o projeto digitando `localhost:3333`  no seu browser.
+<br>
+```
+
+
+```
+
