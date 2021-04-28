@@ -1,4 +1,5 @@
-<img align="center" src="https://user-images.githubusercontent.com/57686218/116252888-5cb75480-a746-11eb-8a7e-52bdaf9bba96.png">
+![chat](https://user-images.githubusercontent.com/57686218/116426583-9a38e200-a819-11eb-83a2-a6cd8fcf7b96.gif)
+
 <h1>Chat de suporte real-time</h1>
 <p>Chat de suporte com troca de mensagens em tempo real utilizando web-seockets</p>
 
