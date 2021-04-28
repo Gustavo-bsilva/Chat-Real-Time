@@ -7,8 +7,11 @@
 <p>Esse projeto foi desenvolvido durante a <b>Next Level Week #5</b>, evento feito pela [Rocketseat](https://rocketseat.com.br/), onde foi ensinado a usar o Typescript, TypeORM e Socket.io.</p>
 
 <p>Clone esse repo</p>
+
 Instale todas as dependências usando o `yarn`
+
 Inicie o server com yarn dev
+
 Você pode acessar o projeto digitando `localhost:3333`  no seu browser.
 
 
